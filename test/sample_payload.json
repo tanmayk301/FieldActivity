@@ -1,0 +1,23 @@
+{
+  "action": "create_activity",
+  "activity": {
+    "Activity_ID": "ACT-TEST-001",
+    "User_ID": "USR-001",
+    "Activity_Type": "Retailer Visit",
+    "Entity_Type": "Retailer",
+    "Entity_ID": "RET-000001",
+    "Activity_Date": "2026-10-08",
+    "Start_Time": "2026-10-08T10:00:00+05:30",
+    "End_Time": "2026-10-08T10:35:00+05:30",
+    "Duration_Min": 35,
+    "Start_Latitude": 19.076,
+    "Start_Longitude": 72.8777,
+    "End_Latitude": 19.0761,
+    "End_Longitude": 72.8778,
+    "Purpose": "Product discussion",
+    "Outcome": "Interested",
+    "Follow_Up_Required": "Yes",
+    "Remarks": "Follow up next week",
+    "Created_DateTime": "2026-10-08T10:35:10+05:30"
+  }
+}

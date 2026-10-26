@@ -1,0 +1,1 @@
+Android folder contains the manifest customization needed by the Flutter project. Run `flutter create .` after extracting this source to generate the remaining standard Flutter Android files, then keep the provided AndroidManifest.xml.

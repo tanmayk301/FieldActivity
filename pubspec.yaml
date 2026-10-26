@@ -1,0 +1,29 @@
+
+name: field_activity_app
+description: Android-first field activity tracking app.
+publish_to: "none"
+version: 1.0.0+2
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  geolocator: ^13.0.1
+  sqflite: ^2.4.1
+  path: ^1.9.0
+  connectivity_plus: ^6.1.0
+  shared_preferences: ^2.3.3
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/field_force_connect_logo.png
